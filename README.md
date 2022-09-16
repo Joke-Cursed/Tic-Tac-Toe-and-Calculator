@@ -9,4 +9,4 @@ This project contains the tic tac toe game and calculator. I choose this project
 <li>Calculator is implemented by using HTML, CSS Grid and Javascript. </li>
 </ul>
  
-<b> Netlify Link:</b> https://calculator-game-tictactoe.netlify.app/
+<b> Netlify Link:</b> https://tic-tac-toe-and-calculator.netlify.app/
